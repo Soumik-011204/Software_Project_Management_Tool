@@ -152,6 +152,3 @@ Developed as an academic Software Engineering project to apply concepts of web d
 
 - GitHub: [@Soumik-011204](https://github.com/Soumik-011204)
 
-## 📄 License
-
-No license has been specified in this README. Add a suitable open-source license if you intend to distribute the project under specific reuse terms.
